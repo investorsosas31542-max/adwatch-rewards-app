@@ -10,7 +10,10 @@ export type Ad = {
   thumbnailHint: string;
 };
 
-const REWARD_RATE_PER_SECOND = 2.5; // $2.50 per second
+// This rate is a starting point. You must monitor your AdSense earnings
+// and adjust this rate to ensure profitability.
+// Current rate: $0.015 per 30-second ad.
+const REWARD_RATE_PER_SECOND = 0.0005; 
 
 const baseAds: Omit<Ad, 'id' | 'reward' | 'thumbnailUrl'>[] = [
   {
