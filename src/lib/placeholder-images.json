@@ -1,0 +1,28 @@
+{
+  "placeholderImages": [
+    {
+      "id": "ad1-thumb",
+      "description": "Thumbnail for a sports drink ad",
+      "imageUrl": "https://picsum.photos/seed/ad1/600/400",
+      "imageHint": "sports drink"
+    },
+    {
+      "id": "ad2-thumb",
+      "description": "Thumbnail for a new car ad",
+      "imageUrl": "https://picsum.photos/seed/ad2/600/400",
+      "imageHint": "new car"
+    },
+    {
+      "id": "ad3-thumb",
+      "description": "Thumbnail for a tech gadget ad",
+      "imageUrl": "https://picsum.photos/seed/ad3/600/400",
+      "imageHint": "tech gadget"
+    },
+    {
+      "id": "ad4-thumb",
+      "description": "Thumbnail for a vacation package ad",
+      "imageUrl": "https://picsum.photos/seed/ad4/600/400",
+      "imageHint": "vacation travel"
+    }
+  ]
+}
